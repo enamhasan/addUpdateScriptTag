@@ -71,8 +71,7 @@ const [createScripts] = useMutation(CREATE_SCRIPT_TAG);
 const [deleteScripts] = useMutation(DELETE_SCRIPTTAG);
 const [createMetafield] = useMutation(CREATE_META_FIELD);
   
-  //const { loading, error, data } = useQuery(QUERY_SCRIPTTAGS);
-
+  
 
   //if (loading) return <div>Loading…</div>;
   //if (error) return <div>{error.message}</div>;
